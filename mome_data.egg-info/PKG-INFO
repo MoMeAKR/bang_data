@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mome_data
+Version: 0.1.0
+Summary: Data utilities.
+Author: mOmE
+Requires-Python: >=3.6
